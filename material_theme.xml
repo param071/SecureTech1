@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="tabFontSize" value="14" />
+    <option name="userId" value="426cacbe:1710c3c386d:-8000" />
+    <option name="version" value="4.5.2" />
+  </component>
+</application>
